@@ -4,7 +4,7 @@ body{
   font-family: sans-serif;
 }
 #container{
-  background: #86297d;
+  background: #edf1bd;
   width: 100vw;
   height: 100vh;
   margin: 0;
@@ -17,7 +17,7 @@ h1{
   margin: 0 auto;
   margin-bottom: 20px;
   margin-top: 15px;
-  color: #ffffff;
+  color: #000000;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 p{
@@ -27,7 +27,7 @@ p{
   font-weight: 400;
   margin: 0 auto;
   margin-bottom: 40px;
-  color: white;
+  color: rgb(0, 0, 0);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 button{
@@ -37,13 +37,13 @@ button{
   margin: 0 auto;
   border: none;
   font-size: 18px;
-  color: white;
+  color: rgb(143, 66, 66);
   background: #141c3a;
 }
 #float-circle{
   width: 100px;
   height: 100px;
-  background: #fdc43f;
+  background: #395ac9;
   border-radius: 100px;
   bottom: 50px;
   left: 50%;
@@ -54,14 +54,14 @@ button{
 #floor{
   width: 100%;
   height: 30px;
-  background: #6df0c2;
+  background: #31ae80;
   bottom: 0;
   position: absolute;
 }
 #platform{
   width: 100px;
   height: 50px;
-  background: #efd9ca;
+  background: #a4653b;
   bottom: 0;
   position: absolute;
   left: 50%;
