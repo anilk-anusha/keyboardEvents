@@ -24,8 +24,8 @@ The project aims to demonstrate the practical usage of keyboard events in JavaSc
 
 ## To-do List
 
-- [ ] Hold a key down to lift the ball, then release the key to drop the ball.
-- [ ] Refactor code for better optimization and readability.
+- [x] Hold a key down to lift the ball, then release the key to drop the ball.
+- [x] Refactor code for better optimization and readability.
 
 ## Screenshots
 
